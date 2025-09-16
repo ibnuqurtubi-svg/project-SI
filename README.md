@@ -44,6 +44,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Redberry](https://redberry.international/laravel-development)**
 - **[Active Logic](https://activelogic.com)**
 
+# Laravel Testing Project
+
+![ibnuqurtubi-svg](https://github.com/ahmadmiftahulhuda-arch/praktikumAPI.git)
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
