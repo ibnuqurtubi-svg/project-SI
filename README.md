@@ -46,7 +46,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 # Laravel Testing Project
 
-![ibnuqurtubi-svg](https://github.com/ibnuqurtubi-svg/project-SI.git)
+![ibnu qurtubi](https://github.com/ibnuqurtubi-svg/project-SI.git)
 
 ## Contributing
 
